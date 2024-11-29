@@ -1,17 +1,34 @@
-# Manim_Fourier
+# Draw Music By Fourier
 
-## ManimCairo
-
-该文件夹下的程序是 [[OUTDATED\] ManimCairo tutorial - Fourier Scene - YouTube](https://www.youtube.com/watch?v=2tTshwWTEic)  视频下给出的程序，基于 [ManimCairo](https://github.com/3b1b/manim/tree/cairo-backend) 版本的
+使用傅里叶级数绘画音乐
 
 ## ManimCE
+本项目所提供的demo文件（draw_fourier.py）已适配社区版manim [ManimCE](https://github.com/manimCommunity/manim)   
 
-该文件夹下的程序是适配到社区版的 [ManimCE](https://github.com/manimCommunity/manim) 实现的
+本项目所需要用到的manim在不同环境下的相关安装与使用方法可在社区中进行查看  
 
-## 链接到：
+
+### Installation Manim By Conda（Win）
+以下提供Win环境下一种简易的安装方法：  
+
+1、安装anaconda，打开anaconda的cmd提示窗口anaconda prompt  
+
+2、输入以下指令：
+```python
+conda create -n my-manim-environment
+conda activate my-manim-environment
+conda install -c conda-forge manim
+```
+其中“my-manim-environment”可更换为自己想要的环境名称，如“mymanim”
+### 在manim中运行draw_fourier.py
+进入所创建的manim环境，输入指令：
+```python
+manim -pql draw_fourier.py CustomAnimationExample
+```
+draw_fourier.py中CustomAnimationExample类所读取的mp3文件可以更换为想要绘画的音频  
+（mp3音频文件与draw_fourier.py置于同一目录）
+
+## 参考链接：
 
 [当傅里叶拿起画笔——manim_fourier 程序分享、、、_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1q84y187EK/?vd_source=43a4b55496ceb031cd19527449c3aa23)
 
-[兔年到，manim画个兔_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV18G4y1F7Uk/?spm_id_from=333.788.recommend_more_video.1&vd_source=43a4b55496ceb031cd19527449c3aa23)
-
-[当傅里叶拿起画笔 | Jermain Liu](https://jermainliu.github.io/p/8719.html)
