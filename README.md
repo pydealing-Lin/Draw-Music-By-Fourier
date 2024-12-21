@@ -1,6 +1,7 @@
 # Draw Music By Fourier
 
-使用傅里叶级数绘画音乐
+抽象的音乐，简洁的傅里叶级数，充满想象力的绘画  
+使用傅里叶级数绘制音乐
 
 ## ManimCE
 本项目所提供的demo文件（draw_fourier.py）已适配社区版manim [ManimCE](https://github.com/manimCommunity/manim)   
@@ -8,8 +9,8 @@
 本项目所需要用到的manim在不同环境下的相关安装与使用方法可在社区中进行查看  
 
 
-### Installation Manim By Conda（Win）
-以下提供Win环境下一种简易的安装方法：  
+### Installation Manim By Conda（Win/Linux）
+以下提供Win/Linux环境下一种简易的安装方法：  
 
 1、安装anaconda，打开anaconda的cmd提示窗口anaconda prompt  
 
@@ -29,6 +30,5 @@ draw_fourier.py中CustomAnimationExample类所读取的mp3文件可以更换为�
 （mp3音频文件与draw_fourier.py置于同一目录）
 
 ## 参考链接：
-
 [当傅里叶拿起画笔——manim_fourier 程序分享、、、_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1q84y187EK/?vd_source=43a4b55496ceb031cd19527449c3aa23)
 
