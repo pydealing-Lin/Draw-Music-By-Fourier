@@ -31,5 +31,5 @@ draw_fourier.py中CustomAnimationExample类所读取的mp3文件可以更换为�
 （mp3音频文件与draw_fourier.py置于同一目录）
 
 ## 参考链接：
-[当傅里叶拿起画笔——manim_fourier 程序分享、、、_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1q84y187EK/?vd_source=43a4b55496ceb031cd19527449c3aa23)
-
+[Draw Music By Fourier 用傅里叶绘制音乐_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1q84y187EK/?vd_source=43a4b55496ceb031cd19527449c3aa23)
+[Draw Music By Fourier 用傅里叶绘制音乐](https://www.bilibili.com/video/BV1HEkaYuEjt/?share_source=copy_web&vd_source=e96f094f5cbc4ce0b1074912888dc399)
