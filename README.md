@@ -1,6 +1,7 @@
 # Draw Music By Fourier
 
 抽象的音乐，简洁的傅里叶级数，充满想象力的绘画  
+
 使用傅里叶级数绘制音乐
 
 ## ManimCE
